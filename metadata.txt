@@ -2,11 +2,22 @@
 name=Busca Imóveis (Simples)
 qgisMinimumVersion=3.0
 description=Busca imóveis e gera ficha cadastral e croqui.
-version=2.0
+version=2.0.0
 author=Hadler Stevanatto
 email=hstevanatto@valinhos.sp.gov.br
 about=Plugin simplificado para busca de imóveis.
-category=Plugins
+
+Campos obrigatórios para publicação no repositório oficial do QGIS
+
+tracker=https://www.google.com/search?q=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel/issues
+repository=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel
+homepage=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel
+
+Tags e Categoria ajudam na pesquisa dentro do QGIS
+
+tags=imoveis, cadastro, croqui, busca, prefeitura
+category=Vector
+
 icon=icon.png
 experimental=False
 deprecated=False
