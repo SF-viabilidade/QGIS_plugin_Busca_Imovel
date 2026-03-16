@@ -9,8 +9,7 @@ about=Plugin simplificado para busca de imóveis.
 
 Campos obrigatórios para publicação no repositório oficial do QGIS
 
-tracker=https://www.google.com/search?q=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel/issues
-repository=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel
+tracker=https://www.google.com/url?sa=E&source=gmail&q=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel/issues
 homepage=https://github.com/SF-viabilidade/QGIS_plugin_Busca_Imovel
 
 Tags e Categoria ajudam na pesquisa dentro do QGIS
