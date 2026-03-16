@@ -1,0 +1,1 @@
+# QGIS_plugin_Busca_Imovel
