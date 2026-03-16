@@ -2,7 +2,7 @@
 name=Busca Imóveis (Simples)
 qgisMinimumVersion=3.0
 description=Busca imóveis e gera ficha cadastral e croqui.
-version=2.0.0
+version=3.0.0
 author=Hadler Stevanatto
 email=hstevanatto@valinhos.sp.gov.br
 about=Plugin simplificado para busca de imóveis.
